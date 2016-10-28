@@ -1,0 +1,24 @@
+{
+    "name": "ribafs/cake-lib",
+    "authors": [
+        {
+            "name": "Ribamar FS",
+            "email": "contato@ribafs.org",
+            "homepage": "http://ribafs.org",
+            "role": "Developer"
+        }
+    ],
+    "description": "Plugin with library model table to CakePHP 3 with class and methods to database access: return all register, one register, count and other",
+    "type": "library",
+    "keywords": ["cakephp", "plugin", "library", "model", "table", "access", "database"],    
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.9",
+        "cakephp/cakephp": "~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CakeLib\\": "src"
+        }
+    }
+}
