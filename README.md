@@ -1,5 +1,7 @@
-Plugin with your functions to database access in CakePHP 3
-==========================================================
+## Plugin with your functions to database access in CakePHP 3
+
+# Dizendo não para o lado negro da força (MS) mudei para o GitLab. Manterei os arquivos aqui em respeito aos usuários e ao antigo GitHub mas estarei atualizando somente no GitLab daqui pra frente.
+https://gitlab.com/ribafs/cake-lib
 
 [![Licença](https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000)](https://github.com/ribafs/cake-lib-table/blob/master/LICENSE)
 [![Último Estável](https://img.shields.io/packagist/v/elboletaire/twbs-cake-plugin.svg?style=flat-square)](https://packagist.org/packages/ribafs/cake-lib-table)
